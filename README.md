@@ -25,9 +25,6 @@ sentiment-classifier/
 ├── .venv/ # Virtual environment
 └── README.md # You're reading it 👀
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -51,9 +48,7 @@ Edit
 😄 Positive → "I love The Devil Wears Prada"
 😡 Negative → "This is Trash"
 
-pgsql
-Copy
-Edit
+
 
 ---
 
@@ -62,5 +57,5 @@ All code and logic written by **me** while learning Python + ML from scratch.
 I used ChatGPT only to review structure and explain concepts I didn’t know at first —  
 **no copy-paste**, I understand every line in here.  
 
-> "Built with errors, fixed with rage, and now it works. Let’s go." 🫡
+"Built with errors, fixed with rage, and now it works. !!!!
 
