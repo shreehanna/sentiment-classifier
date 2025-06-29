@@ -1,8 +1,26 @@
+# 🧠 Sentiment Classifier
+
+> A no-frills sentiment analysis mini project — built to learn, not just to flex.
+
+## 📌 Why I Made This
+
+I'm currently learning Machine Learning and NLP as part of my B.Tech CSE (AI/ML) journey — prepping for a USC transfer + aiming for that Apple ML internship. This was my hands-on intro to NLP where I got text to stop being cute and start being data.
+
+## 🛠️ How It Works
+
+- **Text to Numbers:** Uses `CountVectorizer` to convert sentences into feature vectors  
+- **Model:** Trains a `LogisticRegression` classifier to detect sentiment  
+- **Labels:** 1 = positive 😄, 0 = negative 😡  
+- **Prediction:** You input a sentence, it tells you the mood — straight up.
+
+## 🧪 Example Output
+
+```python
+😄 Positive → "I love The Devil Wears Prada"
+😡 Negative → "This is Trash"
+
 📂 Project Structure
-bash
-Copy
-Edit
-📁 sentiment-classifier/
+ sentiment-classifier/
 ├── sentiment_classifier.py   # Core Python script
 ├── .venv/                    # Virtual environment
 ├── README.md                 # You're reading it 👀
