@@ -12,14 +12,7 @@ I'm currently learning Machine Learning and NLP as part of my B.Tech CSE (AI/ML)
 - **Model:** Trains a `LogisticRegression` classifier to detect sentiment  
 - **Labels:** 1 = positive 😄, 0 = negative 😡  
 - **Prediction:** You input a sentence, it tells you the mood — straight up.
-
-## 🧪 Example Output
-
-```python
-😄 Positive → "I love The Devil Wears Prada"
-😡 Negative → "This is Trash"
-
-📂 Project Structure
+  📂 Project Structure
  sentiment-classifier/
 ├── sentiment_classifier.py   # Core Python script
 ├── .venv/                    # Virtual environment
@@ -46,3 +39,11 @@ Build a clean UI with Streamlit (coming soon...)
 💬 Final Word
 All code and logic written by me while learning Python + ML from scratch.
 I used ChatGPT only to review structure and explain concepts I didn’t know at first — no copy-paste, I understand every line in here.
+
+## 🧪 Example Output
+
+```python
+😄 Positive → "I love The Devil Wears Prada"
+😡 Negative → "This is Trash"
+
+
