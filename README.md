@@ -59,3 +59,7 @@ I used ChatGPT only to review structure and explain concepts I didn’t know at 
 
 "Built with errors, fixed with rage, and now it works. !!!!
 
+## 📸 Visuals
+
+![image](https://github.com/user-attachments/assets/851a88fd-916d-456a-8784-48fcc50d470b)
+
